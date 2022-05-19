@@ -16,7 +16,7 @@ Our shell has support for the following built-in commands:
 - help2.c - functions for the help built-in
 - cd.c - functions for the cd built-in
 - cd2.c - functions for the cd built-in
-- \_getenv.c - functions for getting elements from the environment
+- _getenv.c - functions for getting elements from the environment
 - env.c - functions for the env, setenv, and unsetenv built-ins
 - llfuncs1.c - linked list functions
 - llfuncs2.c - linked list functions
